@@ -20,6 +20,6 @@ class Solution {
             return Double.POSITIVE_INFINITY;
         }else{
             return (double) (y[1] - x[1]) / (y[0] - x[0]);
-        }       
+        }
     }
 }
